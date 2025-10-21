@@ -1,11 +1,9 @@
 backend:
-  name: test-repo
-
-# 生产环境使用GitHub（需要OAuth服务器）
-# backend:
-#   name: github
-#   repo: adamchenlang/adams-ocean-lab
-#   branch: master
+  name: github
+  repo: adamchenlang/adams-ocean-lab
+  branch: master
+  base_url: https://oauth-server-1o3pzlaw6-adam-chens-projects-9cfd59a2.vercel.app
+  auth_endpoint: /api/auth
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
