@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: adamchenlang/adams-ocean-lab
   branch: master
 
 media_folder: "public/images/uploads"
