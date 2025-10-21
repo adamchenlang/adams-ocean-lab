@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Mon, 20 Oct 2025 20:12:03 at https://laputasky.com
+(httrack https://laputasky.com -O ./temp/original-site -r3 -%e0 -A500000 -%c5 -c4 -%k -s0 -F Mozilla/5.0 -w )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:12:03	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 3 links scanned, 3 files written (82055 bytes overall) [26813 bytes received at 8937 bytes/sec], 82055 bytes transferred using HTTP compression in 3 files, ratio 29%, 1.5 requests per connection
+(No errors, 1 warnings, 0 messages)

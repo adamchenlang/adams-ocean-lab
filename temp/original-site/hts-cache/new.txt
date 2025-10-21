@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:12:04	48776/48776	---MCZ	200	added ('OK')	text/html	etag:8afc9b7bc8af2860c6d55094f500f1e5	https://laputasky.com/	./temp/original-site/laputasky.com/index.html	(from )
+20:12:05	409/409	---MCZ	200	added ('OK')	application/manifest+json	etag:7247ce6e9c8fa29f3345a133d201ed7a	https://laputasky.com/manifest.webmanifest	./temp/original-site/laputasky.com/manifest.webmanifest	(from https://laputasky.com/)
+20:12:06	32870/32870	---MCZ	200	added ('OK')	application/javascript	etag:109e9b7138cca568f9122fe74bff1ced	https://laputasky.com/sw.js	./temp/original-site/laputasky.com/sw.js	(from https://laputasky.com/)
